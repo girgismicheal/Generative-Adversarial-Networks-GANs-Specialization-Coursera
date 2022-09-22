@@ -45,4 +45,3 @@
 - Assignments 
 - Extra Labs
 - All papers discussed in this specialization
-- 
